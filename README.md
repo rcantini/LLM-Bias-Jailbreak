@@ -26,7 +26,7 @@ This repository includes the following Python files:
 After that, you can customize the _main.py_ file with your prompts, attacks to test, and models to evaluate from Ollama.
 
 ## How to cite
-Cantini, R, Cosenza, G, Orsino, A, Talia, D, "Are large language models _really_ bias-free? Jailbreak prompts for assessing adversarial robustness to bias elicitation". In: The 27th International Conference on Discovery Science 2024.
+Cantini, Riccardo, et al. "Are Large Language Models _Really_ Bias-Free? Jailbreak Prompts for Assessing Adversarial Robustness to Bias Elicitation." International Conference on Discovery Science. Cham: Springer Nature Switzerland, 2024.
 
 ## Acknowledgements
 This work has been supported by the "FAIR – Future Artificial Intelligence Research" project - CUP H23C22000860006.
